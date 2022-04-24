@@ -12,5 +12,6 @@ Funcionalidades do projeto:
 - Sistema de nível;
 - Sistema de XP para compra de tentativas e desbloqueio de dificuldade das perguntas;
 - Contagem perguntas acertadas por cada assunto.
+ 
 Obs: Algumas coisas poderão ser retiradas ou acrescentadas.
 
